@@ -7,9 +7,6 @@
 
 ## Описание теста
 Проведено тестирование скорости вывода данных из аналитической БД. 
-Сравниваются 2 вариантов: 
-* 1 вариант) транзакционная Postgres + аналитическая Clickhouse (синхронизация через движки Clickhouse: PostgreSQL и MaterializedPostgreSQL). Ссылка на файлы по Clickhouse: https://github.com/Nastya224/Clickhouse1.git
-* 2 вариант) транзакционная Postgres + аналитическая Elastic (синхронизация через сервис Pgsync)
 
 ## Результаты
 
