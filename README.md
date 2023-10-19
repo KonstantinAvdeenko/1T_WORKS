@@ -11,8 +11,6 @@
 кибана
 Redis
 pgsync (сервис для синхронизации данных между Postgres и Elastic)
-Инструкция по развертыванию
-https://github.com/Nastya224/Elastic1/blob/7d1f1a3ddc02158b1ac7d92b22a3ad659283170d/Deploy.md
 
 После развертывания можно запустить два файла в Airflow:
 
